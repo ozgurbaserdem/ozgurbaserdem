@@ -19,6 +19,9 @@ Built a design system with 130+ components used by 20 frontend teams. Led the Ma
 **[Budgetkollen.se](https://www.budgetkollen.se)** — Personal Finance Calculator<br>
 Side project helping Swedes manage their finances. Next.js, TypeScript, Tailwind CSS.
 
+**Secret Project** — Educational Platform<br>
+Building something for Swedish students. Full-stack app with multiple user roles, real-time data, and a lot of moving parts. Nuxt 4, Vue 3, TypeScript, Tailwind CSS, Supabase.
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React, Vue, Next.js, Nuxt, TypeScript
