@@ -24,7 +24,7 @@ Building something for Swedish students. Full-stack app with multiple user roles
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Vue, Next.js, Nuxt, TypeScript
+- **Frontend:** React, Vue, Next.js, Nuxt, TypeScript, Redux, react-router-dom etc.
 - **Styling:** Tailwind CSS, Material UI
 - **Testing:** Jest, Vitest, Playwright, React Testing Library
 - **Tools:** Storybook, Vite, Git, Claude Code
