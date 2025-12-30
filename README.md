@@ -4,19 +4,19 @@ Web developer who likes a good problem and an even better solution. Always learn
 
 ## 👨‍💻 About Me
 
-Frontend developer at [Prorenata](https://prorenata.se), building digital solutions for school healthcare in Sweden. Previously Tech Lead at SJ.
+Frontend developer at [Prorenata](https://prorenata.se), building digital solutions for school healthcare in Sweden. Previously Tech Lead at [SJ](https://sj.se).
 
 I'm passionate about building performant applications - there's something satisfying about shaving milliseconds off load times and optimizing what's under the hood. I believe good design should be invisible: accessible, intuitive, and fast enough that users never have to think about it.
 
 ## 💼 What I've Built
 
-**[SJ.se](https://www.sj.se)** - Sweden's National Railway
-Was Tech Lead for the ticket purchase flow serving millions of monthly users. Built booking, payments, travel passes, and account management. Strong focus on accessibility and performance.
+**[SJ.se](https://www.sj.se)** — Sweden's Largest Train Operator<br>
+Was Tech Lead for the ticket purchase flow serving millions of monthly users. Built the booking flow, rebooking, and travel passes. Strong focus on accessibility and performance.
 
-**[SJ Design System](https://design.sj.se)** - Enterprise Component Library
+**[SJ Design System](https://design.sj.se)** — Enterprise Component Library<br>
 Built a design system with 130+ components used by 20 frontend teams. Led the Material UI 4→5 migration and pushed for dark mode implementation. React, TypeScript, Storybook.
 
-**[Budgetkollen.se](https://www.budgetkollen.se)**  Personal Finance Calculator
+**[Budgetkollen.se](https://www.budgetkollen.se)** — Personal Finance Calculator<br>
 Side project helping Swedes manage their finances. Next.js, TypeScript, Tailwind CSS.
 
 ## 🛠 Tech Stack
