@@ -1,4 +1,4 @@
-# Öz Baserdem
+# Öz here 🙃
 
 Web developer who likes a good problem and an even better solution. Always learning.
 
