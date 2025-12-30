@@ -11,7 +11,7 @@ I'm passionate about building performant applications - there's something satisf
 ## 💼 What I've Built
 
 **[SJ.se](https://www.sj.se)** — Sweden's Largest Train Operator<br>
-Was Tech Lead for the ticket purchase flow serving millions of monthly users. Built the booking flow, rebooking, and travel passes. Strong focus on accessibility and performance.
+Was Tech Lead for the ticket purchase flow serving millions of monthly users. Built the flows for ticket purchases, rebooking/cancelling tickets, and buying travel passes. Strong focus on accessibility and performance.
 
 **[SJ Design System](https://design.sj.se)** — Enterprise Component Library<br>
 Built a design system with 130+ components used by 20 frontend teams. Led the Material UI 4→5 migration and pushed for dark mode implementation. React, TypeScript, Storybook.
