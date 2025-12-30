@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Öz 👋
 
-<!--
-**ozgurbaserdem/ozgurbaserdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer who likes a good problem and an even better solution. Always learning.
 
-Here are some ideas to get you started:
+## 💼 What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SJ.se** — Sweden's National Railway
+Lead frontend developer for the main ticket purchase flow, serving millions of monthly users. Built booking, payments, travel passes, and account management features.
+
+**[SJ Design System](https://design.sj.se)** — Enterprise Component Library
+Designed and built a comprehensive design system with 130+ components over 1.5 years. Web Components (Stencil), TypeScript, Storybook. Powers all SJ digital products.
+
+**[Budgetkollen.se](https://www.budgetkollen.se)** — Personal Finance Calculator
+My own project helping Swedes manage their personal finances. Built with Next.js, TypeScript, and Tailwind CSS.
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Vue, Next.js, Nuxt, TypeScript
+**Styling:** Tailwind CSS, CSS-in-JS
+**Backend:** Node.js, Supabase, PostgreSQL
+**Tools:** Storybook, Vite, Git, Stencil (Web Components)
+
+## 🌍 Stockholm, Sweden
+
+## 📫 Connect
+
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
