@@ -22,37 +22,39 @@ Side project helping Swedes manage their finances. Next.js, TypeScript, Tailwind
 ![Secret Project](https://img.shields.io/badge/🔒_Secret_Project-Educational_Platform-97009a)<br>
 Building something for Swedish students. Full-stack app with multiple user roles, real-time data, and a lot of moving parts. Nuxt 4, Vue 3, TypeScript, Tailwind CSS, Supabase.
 
-
 ## 🛠 Tech Stack
 
-**Frontend:**<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Styling:**<br>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-
-**Testing:**<br>
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-**Tools:**<br>
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-DE7356?style=flat&logo=claude&logoColor=white)
+<table>
+<tr><td><b>Frontend</b></td><td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+</td></tr>
+<tr><td><b>Styling</b></td><td>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" alt="Material UI">
+</td></tr>
+<tr><td><b>Testing</b></td><td>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright">
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Claude-DE7356?style=flat&logo=claude&logoColor=white" alt="Claude">
+</td></tr>
+</table>
 
 ## ✍️ Writing
 
 **[AI didn't make me faster — it made me brave enough to learn more](https://dev.to/ozgurbaserdem/ai-didnt-make-me-faster-it-made-me-brave-enough-to-learn-more-1kad)**
 
-My take on AI-assisted development. The real value isn't *just* speed - it's that you can learn far more than before while shipping even faster. AI lets you explore areas you'd normally avoid, and actually understand them.
+My take on AI-assisted development. The real value isn't _just_ speed - it's that you can learn far more than before while shipping even faster. AI lets you explore areas you'd normally avoid, and actually understand them.
 
 ## 📫 Connect
 
