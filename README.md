@@ -1,14 +1,17 @@
 # Öz here 🙃
 
-Web developer who likes a good problem and an even better solution. Always learning.
+Product engineer in Stockholm who likes a good problem and an even better solution. Always learning.
 
 ## 👨‍💻 About Me
 
-Frontend developer at [Prorenata](https://prorenata.se), building digital solutions for school healthcare in Sweden. Previously Tech Lead at [SJ](https://sj.se).
+Frontend developer at [Prorenata](https://prorenata.se), building the medical records system for Sweden's school health teams, and part of its Frontend Tech Council. Previously Tech Lead at [SJ](https://sj.se).
 
 I'm passionate about building performant applications - there's something satisfying about shaving milliseconds off load times and optimizing what's under the hood. I believe good design should be invisible: accessible, intuitive, and fast enough that users never have to think about it.
 
 ## 💼 What I've Built
+
+[![Foveo](https://img.shields.io/badge/🤝_Foveo-Care_Coordination_App-8a5a2b)](https://foveoapp.com)<br>
+Routines, instructions and handovers for families with personal assistance and their assistants. Built solo, from idea to live App Store and Google Play releases in two months. Expo, React Native, Supabase.
 
 [![SJ.se](https://img.shields.io/badge/🚂_SJ.se-Sweden's_Largest_Train_Operator-00892f)](https://www.sj.se)<br>
 Was Tech Lead for the ticket purchase flow serving millions of monthly users. Built the flows for ticket purchases, rebooking/cancelling tickets, and buying travel passes. Strong focus on accessibility and performance.
@@ -16,17 +19,23 @@ Was Tech Lead for the ticket purchase flow serving millions of monthly users. Bu
 [![SJ Design System](https://img.shields.io/badge/🎨_SJ_Design_System-Enterprise_Component_Library-00749a)](https://design.sj.se)<br>
 Built a design system with 130+ components used by 20 frontend teams. Led the Material UI 4→5 migration and pushed for dark mode implementation. React, TypeScript, Storybook.
 
-[![Budgetkollen](https://img.shields.io/badge/💰_Budgetkollen-Personal_Finance_Calculator-9a7100)](https://www.budgetkollen.se)<br>
-Side project helping Swedes manage their finances. Next.js, TypeScript, Tailwind CSS.
+### 🧪 Side experiments, not maintained
 
-![Secret Project](https://img.shields.io/badge/🔒_Secret_Project-Educational_Platform-97009a)<br>
-Building something for Swedish students. Full-stack app with multiple user roles, real-time data, and a lot of moving parts. Nuxt 4, Vue 3, TypeScript, Tailwind CSS, Supabase.
+Built in under a week each to push new AI coding tools as far as they would go. Design wasn't the focus; learning was.
+
+[![Schoolie](https://img.shields.io/badge/🦉_Schoolie-Learning_Platform-97009a)](https://www.schoolie.se)<br>
+A learning platform from preschool to upper secondary, built in December 2025 with Claude Opus 4.5. Nuxt 4, Vue 3, TypeScript, Tailwind CSS, Supabase.
+
+[![Budgetkollen](https://img.shields.io/badge/💰_Budgetkollen-Household_Budget-9a7100)](https://www.budgetkollen.se)<br>
+A bilingual household-budget toolkit, built in spring 2025 with a very early Claude Code, still in research preview. Next.js, TypeScript, Tailwind CSS.
 
 ## 🛠 Tech Stack
 
 <table>
 <tr><td><b>Frontend</b></td><td>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt">
@@ -46,6 +55,7 @@ Building something for Swedish students. Full-stack app with multiple user roles
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Claude-DE7356?style=flat&logo=claude&logoColor=white" alt="Claude">
 </td></tr>
 </table>
